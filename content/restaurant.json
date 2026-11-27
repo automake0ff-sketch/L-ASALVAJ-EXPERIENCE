@@ -1,0 +1,22 @@
+{
+  "business": {
+    "name": "L’Asalvajá",
+    "address": "Calle Cueva del Agua, 8, Sevilla",
+    "phone": "602 44 32 39",
+    "whatsapp": "https://wa.me/34602443239",
+    "instagram": "https://www.instagram.com/lasalvaja/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=L%27Asalvaj%C3%A1%2C+Calle+Cueva+del+Agua+8%2C+Sevilla"
+  },
+  "sourcePolicy": "Los precios, horarios, platos e imágenes deben aprobarse antes de publicarse.",
+  "lastVerified": "2026-11-27",
+  "sources": [
+    {"id":"official-home","name":"Web oficial · inicio","url":"https://lasalvaja.es/","state":"accessible","checkedAt":"2026-11-27"},
+    {"id":"official-menu","name":"Web oficial · carta","url":"https://lasalvaja.es/nuestra-carta/","state":"accessible","checkedAt":"2026-11-27"},
+    {"id":"official-contact","name":"Web oficial · contacto","url":"https://lasalvaja.es/contacto/","state":"accessible","checkedAt":"2026-11-27"},
+    {"id":"official-gallery","name":"Web oficial · galería","url":"https://lasalvaja.es/galeria/","state":"accessible","checkedAt":"2026-11-27"},
+    {"id":"instagram","name":"Instagram público","url":"https://www.instagram.com/lasalvaja/","state":"partial","checkedAt":"2026-11-27"},
+    {"id":"maps","name":"Google Maps","url":"https://www.google.com/maps/search/?api=1&query=L%27Asalvaj%C3%A1%2C+Calle+Cueva+del+Agua+8%2C+Sevilla","state":"pending","checkedAt":"2026-11-27"},
+    {"id":"just-eat","name":"Just Eat","url":"https://www.just-eat.es/restaurants-lasalvaja-sevilla/menu","state":"accessible","checkedAt":"2026-11-27"},
+    {"id":"uber-eats","name":"Uber Eats","url":"https://www.ubereats.com/","state":"partial","checkedAt":"2026-11-27"}
+  ]
+}
